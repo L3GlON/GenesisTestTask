@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6d9ae7be0abfd546ad86ab95eadd436, type: 3}
+  m_Name: ObstacleSetsContainer
+  m_EditorClassIdentifier: 
+  obstacleSets:
+  - {fileID: 1883635972024284, guid: fa30f54c74409fa4eb3a8274ca602cf2, type: 2}
+  - {fileID: 1805831088958226, guid: 08ac7e43ec037c24bb704795ffefeb27, type: 2}
+  - {fileID: 1062862943426180, guid: ae0f2bdf114b4eb438a3fc5b2c6af0c3, type: 2}
